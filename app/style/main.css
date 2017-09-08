@@ -1,0 +1,18 @@
+.selected {
+  background: #afe724;
+}
+
+.covered {
+  background: #24e7de;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 5px;
+}
+
+td {
+  background: #bbd1b9;
+  padding:0.8em;
+  border: 1px solid;
+}
