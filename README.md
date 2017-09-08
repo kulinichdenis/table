@@ -1,5 +1,5 @@
 # table
-git clone
-npm install
-npm start
-http://localhost:8080/webpack-dev-server/
+1. git clone
+2. npm install
+3. npm start
+4. http://localhost:8080/webpack-dev-server/
